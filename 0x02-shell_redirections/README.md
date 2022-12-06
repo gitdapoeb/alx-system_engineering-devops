@@ -24,3 +24,7 @@
 100-empty_casks
 101-gifs
 102-acrostic
+[master 8e90210] 102-acrostic
+ 2 files changed, 3 insertions(+)
+ create mode 100755 0x02-shell_redirections/102-acrostic
+103-the_biggest_fan
