@@ -8,3 +8,4 @@
 4. Global variables
 5. Local variables
 6. Local variable
+7. Global variable
