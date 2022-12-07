@@ -6,3 +6,4 @@
 
 3. If the path be beautiful, let us not ask where it leads
 4. Global variables
+5. Local variables
